@@ -1,0 +1,5 @@
+ponedeljak: pasulj
+utorak: grašak
+sreda: boranija
+četvrtak: prokelj
+petak: paprika
