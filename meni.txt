@@ -1,5 +1,5 @@
 ponedeljak: pasulj
 utorak: grašak
-sreda: boranija
+sreda: kupus
 četvrtak: prokelj
 petak: paprika
