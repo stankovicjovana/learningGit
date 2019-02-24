@@ -3,3 +3,5 @@ utorak: grašak
 sreda: grašak2
 četvrtak: prokelj
 petak: paprika
+subota: kari
+nedelja: suši
